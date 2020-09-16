@@ -1,0 +1,6 @@
+framework module ONELoad {
+  umbrella header "ONELoad-umbrella.h"
+
+  export *
+  module * { export * }
+}
